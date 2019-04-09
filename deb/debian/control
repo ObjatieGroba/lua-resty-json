@@ -1,0 +1,17 @@
+Source: lua-resty-json
+Version: 1.0.0
+Section: lua-resty
+Priority: optional
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Maintainer:
+Standards-Version: 3.9.6
+Description: lua-resty-json.
+ .
+
+Package: lua-resty-json
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}, libc6 (>= 2.14)
+Version: 1.0.0
+Description: lua-resty-json.
+ .
