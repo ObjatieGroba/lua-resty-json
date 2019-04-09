@@ -4,7 +4,7 @@ Section: lua-resty
 Priority: optional
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Maintainer:
+Maintainer: Igor Mineev
 Standards-Version: 3.9.6
 Description: lua-resty-json.
  .
