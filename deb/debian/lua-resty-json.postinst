@@ -2,7 +2,7 @@
 
 case "$1" in
   configure)
-    exit 0
+    true
   ;;
 
   abort-upgrade|abort-remove|abort-deconfigure)
